@@ -82,7 +82,7 @@
 }
 
 .link:hover {
-  color: darkblue;
+  color: black;
 }
 
 /* DECRIPTION */
@@ -245,7 +245,7 @@
   background-color: #1f1f1f;
   overflow: hidden;
   z-index: 0;
-  
+
 }
 
 .kaufman__triangle {
@@ -261,11 +261,11 @@
   line-height: 1.15;
   font-size: 60px;
   font-weight: bolder;
-  color: #f2f2f2;
+  color: white;
 }
 
 .section-subtitle_theme_dark {
-  color: #f2f2f2;
+  color: white;
 }
 
 .table_theme_dark {
@@ -278,17 +278,17 @@
 }
 
 .table__heading_theme_dark {
-  color: #f2f2f2;
+  color: white;
 }
 
 .table__text_theme_dark {
-  color: #f2f2f2;
+  color: white;
 }
 
 /* FOOTER */
 
 .footer {
-  color: #f2f2f2;
+  color: white;
   background-color: #1f1f1f;
   padding: 60px 0 40px 0;
   min-height: 350px;
