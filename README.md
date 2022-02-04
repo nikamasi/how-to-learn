@@ -6,4 +6,4 @@ A simple one pager about learning how to learn:
 
 * Uses only basic CSS capabilities such as flex-box and grid layouts, iframe, simple animation with keyframe.
 
-* Follows [BEM](https://en.bem.info/) class naming convention and file structure organization methodology to simplify resuing the code in other projects.
+* Follows [BEM](https://en.bem.info/) class naming convention and file structure organization methodology to simplify reusing the code in other projects.
