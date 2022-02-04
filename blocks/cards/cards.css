@@ -1,0 +1,17 @@
+.cards {
+  list-style-type: none;
+  width: 920px;
+  margin: 0;
+  padding: 0;
+  display: grid; 
+  grid-template-columns: repeat(3, 240px); 
+  justify-content: space-between;
+}
+
+
+
+
+
+
+
+
